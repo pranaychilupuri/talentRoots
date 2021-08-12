@@ -1,0 +1,38 @@
+.pop-icon {
+    height: 25px;
+    width: 25px;
+    
+}
+.pop-container {
+    background-color: transparent;
+    border: none;
+    margin-right: 10px;
+    outline: none;
+}
+.pop-over {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    margin-right: 10px;
+    background-color: transparent;
+    height: 38px;
+    width: 75px;
+}
+
+.edit-container:hover {
+    background-color: #EDF0F7;
+    width: 100%;
+}
+.icon {
+    height: 12px;
+    width: 12px;
+    margin-right: 5px;
+}
+.edit-container {
+    height: 20px;
+    width: 75px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
